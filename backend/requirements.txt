@@ -28,7 +28,7 @@ numpy==1.26.2
 opt_einsum==3.4.0
 optree==0.16.0
 packaging==25.0
-Pillow==10.1.0
+Pillow==9.5.0
 protobuf==4.25.8
 Pygments==2.19.2
 requests==2.32.4
